@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Httpserver</string>
+    <string name="path_web_content">Path to WebContent</string>
+    <string name="web_content">/storage/emulated/0/Download/www</string>
+    <string name="search">search path of web content</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="ipAddress">ip address</string>
+    <string name="ipaddress">%1$s:%2$d</string>
+    <string name="Port">Port</string>
+    <string name="port">%1$d</string>
+    <string name="up">up</string>
+    <string name="down">down</string>
+</resources>
